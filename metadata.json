@@ -1,0 +1,6 @@
+{
+  "name": "AI Voice Call",
+  "description": "A real-time AI voice conversation application mimicking a phone call.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
